@@ -1,35 +1,33 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2800&pause=1000&color=14B8A6&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Gorrela+Bhavya+Vani;Full+Stack+Developer;AI+%2F+ML+Enthusiast;FinTech+%26+Agentic+AI+Builder" alt="Typing SVG"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=Gorrela%20Bhavya%20Vani&fontColor=ffffff&fontSize=42&fontAlign=50&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20AI%2FML%20Enthusiast&descAlign=50&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=14B8A6&center=true&vCenter=true&width=780&lines=Building+Full-Stack+Web+Applications;Designing+Agentic+AI+Systems;React+%C2%B7+Node.js+%C2%B7+Spring+Boot+%C2%B7+Groq+AI;Turning+Ideas+Into+Production-Ready+Products" alt="Typing SVG"/>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Bhavyavani29&color=14B8A6&style=flat-square&label=PROFILE+VIEWS"/>
-  <img src="https://img.shields.io/badge/Status-Open_to_Work-F59E0B?style=flat-square"/>
-</p>
+<br/><br/>
 
-<p>
-  <a href="https://linkedin.com/in/bhavyavanigorrela2995" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:bhavyavani29@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/bhavyavani29" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-  <a href="https://geeksforgeeks.org/user/bhavya29" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GeeksForGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-  </a>
-  <a href="tel:+919704095979" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Call-9704095979-14B8A6?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-</p>
+<img src="https://img.shields.io/badge/🎓_B.Tech_CSE-Final_Year-14B8A6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CGPA-9.29-F59E0B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Open_to_Work-0EA5A5?style=for-the-badge"/>
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/bhavyavanigorrela2995" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:bhavyavani29@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Gmail-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://geeksforgeeks.org/user/bhavya29" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/GeeksForGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/bhavyavani29" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25"/>
 
 ## 👩‍💻 About Me
 
@@ -43,7 +41,7 @@
 
 <br clear="right"/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25"/>
 
 ## 🧰 Technical Skills
 
@@ -100,7 +98,7 @@
 </td></tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25"/>
 
 ## 🚀 Projects
 
@@ -140,36 +138,58 @@ More on **[github.com/Bhavyavani29](https://github.com/Bhavyavani29?tab=reposito
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25"/>
 
 ## 📜 Certifications
 
-| Certification | Issuer |
-|:---|:---|
-| Certified System Administrator (CSA) | ServiceNow |
-| ABAP Backend Developer | SAP |
-| Azure AI Fundamentals (AI-900) | Microsoft |
-| Certified Agentforce Specialist | Salesforce |
-| Java Full Stack (12 Weeks) | AICTE |
-| Android Developer (12 Weeks) | AICTE |
+<table width="100%">
+<tr>
+<td width="50%">🏅 <b>Certified System Administrator (CSA)</b><br/><sub>ServiceNow</sub></td>
+<td width="50%">🏅 <b>ABAP Backend Developer</b><br/><sub>SAP</sub></td>
+</tr>
+<tr>
+<td width="50%">🏅 <b>Azure AI Fundamentals (AI-900)</b><br/><sub>Microsoft</sub></td>
+<td width="50%">🏅 <b>Certified Agentforce Specialist</b><br/><sub>Salesforce</sub></td>
+</tr>
+<tr>
+<td width="50%">🏅 <b>Java Full Stack (12 Weeks)</b><br/><sub>AICTE</sub></td>
+<td width="50%">🏅 <b>Android Developer (12 Weeks)</b><br/><sub>AICTE</sub></td>
+</tr>
+</table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25"/>
 
 ## 💼 Experience
 
-```
-2025  ── Jun ──  Web Development Intern @ Hunar Intern
-                 Delivered 4 production front-end projects (portfolio, course
-                 platform, Netflix-clone, BMI calculator) using HTML, CSS,
-                 JavaScript & Git within sprint deadlines.
+<table width="100%">
+<tr>
+<td width="100%" style="border-left: 4px solid #14B8A6;">
 
-2024  ── Oct-Dec ──  Java Full Stack Developer Intern @ AICTE (Eduskills)
-                 Developed & tested REST endpoints via Postman. Built
-                 responsive React + JavaScript frontends consuming backend
-                 APIs; collaborated via Git with feature branches & PRs.
-```
+### 🌐 Web Development Intern — **Hunar Intern**
+<img src="https://img.shields.io/badge/Jun_2025-14B8A6?style=flat-square"/>
 
----
+Delivered **4 production-ready front-end projects** — a portfolio site, a course platform, a Netflix-clone UI, and a BMI calculator — using HTML, CSS, JavaScript, and Git, all shipped within sprint deadlines.
+
+`HTML` `CSS` `JAVASCRIPT` `GIT`
+
+</td>
+</tr>
+<tr><td><br/></td></tr>
+<tr>
+<td width="100%" style="border-left: 4px solid #F59E0B;">
+
+### ☕ Java Full Stack Developer Intern — **AICTE (Eduskills)**
+<img src="https://img.shields.io/badge/Oct_2024_--_Dec_2024-F59E0B?style=flat-square"/>
+
+Developed and tested **REST endpoints** via Postman, and built **responsive React + JavaScript frontends** that consumed those backend APIs — collaborating through Git using feature branches and pull requests.
+
+`JAVA` `SPRING` `REACT` `POSTMAN` `GIT`
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25"/>
 
 ## 📊 GitHub Performance
 
@@ -188,12 +208,12 @@ More on **[github.com/Bhavyavani29](https://github.com/Bhavyavani29?tab=reposito
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavyavani29&theme=radical&hide_border=true" width="0" height="0"/>
+<img src="https://github-readme-trophy.vercel.app/?username=Bhavyavani29&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=8"/>
 
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer"/>
 
+<div align="center">
 <sub>Thanks for stopping by — <b>Gorrela Bhavya Vani</b> · © 2026</sub>
 </div>

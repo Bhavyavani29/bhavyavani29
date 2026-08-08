@@ -7,7 +7,6 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=Bhavyavani29&color=14B8A6&style=flat-square&label=PROFILE+VIEWS"/>
   <img src="https://img.shields.io/badge/Status-Open_to_Work-F59E0B?style=flat-square"/>
-  <img src="https://img.shields.io/badge/CGPA-9.29-14B8A6?style=flat-square"/>
 </p>
 
 <p>
